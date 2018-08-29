@@ -1,0 +1,17 @@
+{
+    "name": "zingus/preproc",
+    "description": "a preprocessor parser",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "zingus",
+            "email": "zingus@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Preproc\\": "src/"}
+    },
+    "require": {}
+}
